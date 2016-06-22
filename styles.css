@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+@media(min-width:400px) {#sidebar {break-before: always;} }
+  body{margin:50px;}
+/* CSS for home page*/
+#sidebar{width:18%; height:750px;float: left; background-color:#F09614; }
+#main{width:80%; float:right;}
+.icon{float:left;}
+.line{ width: 100%;}  
+h4{ clear:both;}
+#left{ width: 40%; float: left; background color:#A7A7A7;}
+
+#right{ width: 40%; float: right;}
+footer{clear:both; background:#0FF1EE;}
+hr{ width:100%; color:#9900FF;}
+#footer-line{width:100%; height:20px;}
+
+/* CSS for login page */
+
+#Main{width:80%; padding}
+#login-heading{background-color:#EF6C07;}
+/* CSS for About Us page */
+#aboutus-heading{border-top-width:px;border-top-style:solid;background-color:#EF6C07;}
